@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-<a href= "https://github.com/AdityaKumar-Tiwari"> Welccme to my Github </a>
+<a href= "https://github.com/AdityaKumar-Tiwari"> Welcome to my Github </a>
 </br>
 <!--
 **AdityaKumar-Tiwari/AdityaKumar-Tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
