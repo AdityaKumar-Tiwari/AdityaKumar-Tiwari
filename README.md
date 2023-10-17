@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA🔣**
 
-- 📫 How to reach me **adityatiwariq777@gmail.com**
+- 📫 Contact me via **adityatiwariq777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
