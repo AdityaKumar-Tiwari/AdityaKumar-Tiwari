@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar-tiwari&" alt="adityakumar-tiwari" /></p>
 
+[![An image of @adityakumartiwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakumartiwari)](https://holopin.io/@adityakumartiwari)
