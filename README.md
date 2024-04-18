@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar-tiwari" /> </p>
 
-- 🔭 I’m currently working on [Online Vote System](https://github.com/AdityaKumar-Tiwari/Online-Voting-System.git) and [PlatePal](https://github.com/AdityaKumar-Tiwari/PlatePal)
+- 🔭 I’m currently working on [Online Vote System](https://github.com/AdityaKumar-Tiwari/Online-Voting-System.git).
 
 - 🌱 I’m currently learning **DSA🔣**
 
